@@ -17,6 +17,6 @@ public class A6{
                 System.out.print(m + " ");
             }
             System.out.println();
-        }
+        }                          
     }
 }
