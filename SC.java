@@ -4,7 +4,7 @@ public class SC{
         String s = "Swarna";
         System.out.print(s);
         Scanner sc = new Scanner(System.in);
-        char s1 = sc.nextLine();
+     
         
     }
 }
