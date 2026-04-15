@@ -3,7 +3,7 @@ class mobile{
     int price;
     static String name;
     public void display(){
-    System.out.println(brand + price +name);
+    System.out.println(brand + "   " + price+ "  " +name);
 }
 }
 public class SS{
